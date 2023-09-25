@@ -1,2 +1,2 @@
 # Landing-Page
-Little Lemon Landing Page
+Little Lemon Food Landing Page
